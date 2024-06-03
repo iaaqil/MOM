@@ -70,7 +70,7 @@ img {
 .balloon-border {
     position: fixed;
     top: 150%;
-    opacity: 1;
+    opacity: 0.1;
     z-index: 99999999;
 }
 
